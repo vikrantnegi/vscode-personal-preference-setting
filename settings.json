@@ -1,0 +1,13 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "editor.fontSize": 13,
+     "editor.tabSize": 2,
+    "editor.renderIndentGuides": true,
+    "editor.renderWhitespace": "boundary",
+    "editor.wrappingColumn": 0,
+    "editor.parameterHints": false,
+    "editor.formatOnPaste": true,
+    "editor.mouseWheelZoom": true,
+    "files.trimTrailingWhitespace": true,
+    "html.format.indentInnerHtml": true,
+}
