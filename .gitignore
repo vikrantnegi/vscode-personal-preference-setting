@@ -1,0 +1,43 @@
+# https://github.com/github/gitignore
+# https://www.gitignore.io/
+# http://git-scm.com/docs/gitignore
+
+# phpstorm, webstorm
+.idea/
+
+
+# sublime and other ide
+.project
+*.sublime-project
+*.sublime-workspace
+
+# logs
+logs/
+*.log
+npm-debug.log*
+
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+*~
+.*~
+._*
+*.bak
+
+# Recycle bin folder used by different os
+.Trash-*
+$RECYCLE.BIN/
+
+
+# Windows shortcuts
+*.lnk
+
+# Folder config file
+Desktop.ini
+.DS_Store
+
+
+# node packages
+# https://docs.npmjs.com/misc/faq#should-i-check-my-node-modules-folder-into-git
+node_modules/
