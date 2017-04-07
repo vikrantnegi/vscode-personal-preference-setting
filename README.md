@@ -57,6 +57,7 @@ For more, checkout [Awesome VS Code](https://github.com/viatsko/awesome-vscode)
 - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
 - [Sort Lines](https://marketplace.visualstudio.com/items?itemName=Tyriar.sort-lines)
 - [SVG Viewer](https://marketplace.visualstudio.com/items?itemName=cssho.vscode-svgviewer)
+- [SCSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-scss)
 
 ## Tools
 [OpenInCode](https://github.com/sozercan/OpenInCode)
