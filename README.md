@@ -27,6 +27,17 @@ For more, checkout [Awesome VS Code](https://github.com/viatsko/awesome-vscode)
     },
     "editor.dragAndDrop": true,
     "editor.cursorBlinking": "solid",
+    "editor.codeLens": false,
+    
+    //CSS
+    // No unit for zero needed
+    "css.lint.zeroUnits": "warning",
+    "css.lint.idSelector": "warning",
+
+    //SCSS
+    // No unit for zero needed
+    "scss.lint.zeroUnits": "warning",
+    "scss.lint.idSelector": "warning",
 
     //intellisense plugin setting
     "path-intellisense.extensionOnImport": true,
@@ -46,8 +57,6 @@ For more, checkout [Awesome VS Code](https://github.com/viatsko/awesome-vscode)
 - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
 - [Sort Lines](https://marketplace.visualstudio.com/items?itemName=Tyriar.sort-lines)
 - [SVG Viewer](https://marketplace.visualstudio.com/items?itemName=cssho.vscode-svgviewer)
-- [View In Browser](https://marketplace.visualstudio.com/items?itemName=qinjia.view-in-browser)
-
 
 ## Tools
 [OpenInCode](https://github.com/sozercan/OpenInCode)
