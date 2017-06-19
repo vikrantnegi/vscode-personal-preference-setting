@@ -12,23 +12,22 @@ For more, checkout [Awesome VS Code](https://github.com/viatsko/awesome-vscode)
 {
     "editor.fontSize": 14,
     "editor.tabSize": 2,
-    "editor.renderIndentGuides": true,
     "editor.renderWhitespace": "boundary",
     "editor.wordWrap": "on",
     "editor.parameterHints": false,
     "editor.formatOnPaste": true,
     "editor.mouseWheelZoom": true,
     "files.trimTrailingWhitespace": true,
-    "editor.minimap.enabled": true,
-    "workbench.colorTheme": "Atom One Dark",
-    "workbench.iconTheme": "vs-seti",
+    "workbench.colorTheme": "One Dark Pro",
     "files.associations": {
         "*.scss.liquid": "scss"
     },
     "editor.dragAndDrop": true,
     "editor.cursorBlinking": "solid",
     "editor.codeLens": false,
-    
+    "editor.multiCursorModifier": "ctrlCmd",
+    "emmet.useNewEmmet": true,
+
     //CSS
     // No unit for zero needed
     "css.lint.zeroUnits": "warning",
@@ -43,6 +42,13 @@ For more, checkout [Awesome VS Code](https://github.com/viatsko/awesome-vscode)
     "path-intellisense.extensionOnImport": true,
     "path-intellisense.showHiddenFiles": true,
     "path-intellisense.autoSlashAfterDirectory": true,
+
+    "workbench.colorCustomizations":{
+      "tab.activeBackground": "#232833",
+      "activityBar.background": "#282c34",
+      "editorGroup.background": "#282c34",
+      "sideBar.background": "#282c34"
+    }
 }
 ```
 ## Extensions
