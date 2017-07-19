@@ -1,5 +1,5 @@
 # VS Code Personal Setup
-A perosnal list of [Visual Studio Code](https://code.visualstudio.com/) packages and resources to keep track of my personal setup.
+A personal list of [Visual Studio Code](https://code.visualstudio.com/) packages and resources to keep track of my personal setup.
 For more, checkout [Awesome VS Code](https://github.com/viatsko/awesome-vscode)
 
 # Table of Content
@@ -7,7 +7,7 @@ For more, checkout [Awesome VS Code](https://github.com/viatsko/awesome-vscode)
 - [Extensions](#extensions)
 - [Tools](#tools)
 
-## setting
+## Setting
 ```markdown
 {
     "editor.fontSize": 14,
@@ -55,7 +55,7 @@ For more, checkout [Awesome VS Code](https://github.com/viatsko/awesome-vscode)
 - [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 - [Autoprefixer](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-autoprefixer)
-- [beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)
+- [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)
 - [SpellChecker](https://marketplace.visualstudio.com/items?itemName=swyphcosmo.spellchecker)
 - [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
 - [gitignore](https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore)
