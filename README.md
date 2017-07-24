@@ -26,7 +26,7 @@ For more, checkout [Awesome VS Code](https://github.com/viatsko/awesome-vscode)
     "editor.cursorBlinking": "solid",
     "editor.codeLens": false,
     "editor.multiCursorModifier": "ctrlCmd",
-    "emmet.useNewEmmet": true,
+    "emmet.useNewEmmet": false,
 
     //CSS
     // No unit for zero needed
