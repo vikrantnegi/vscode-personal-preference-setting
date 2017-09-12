@@ -52,7 +52,6 @@ For more, checkout [Awesome VS Code](https://github.com/viatsko/awesome-vscode)
 }
 ```
 ## Extensions
-- [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 - [Autoprefixer](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-autoprefixer)
 - [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)
