@@ -10,13 +10,17 @@ For more, checkout [Awesome VS Code](https://github.com/viatsko/awesome-vscode)
 ## Setting
 ```markdown
 {
-    "editor.fontSize": 14,
+    "editor.fontSize": 16,
     "editor.tabSize": 2,
+    "editor.lineHeight": 25,
+    "editor.letterSpacing": 0.5,
+    "editor.fontWeight": "400",
+    "editor.fontFamily": "Operator Mono, Menlo, Monaco, 'Courier New', monospace",
     "editor.renderWhitespace": "boundary",
     "editor.wordWrap": "on",
     "editor.parameterHints": false,
     "editor.formatOnPaste": true,
-    "editor.mouseWheelZoom": true,
+    "editor.mouseWheelZoom": false,
     "files.trimTrailingWhitespace": true,
     "workbench.colorTheme": "One Dark Pro",
     "files.associations": {
@@ -26,8 +30,7 @@ For more, checkout [Awesome VS Code](https://github.com/viatsko/awesome-vscode)
     "editor.cursorBlinking": "solid",
     "editor.codeLens": false,
     "editor.multiCursorModifier": "ctrlCmd",
-    "emmet.useNewEmmet": false,
-
+    "window.nativeTabs": true,
     //CSS
     // No unit for zero needed
     "css.lint.zeroUnits": "warning",
@@ -48,7 +51,21 @@ For more, checkout [Awesome VS Code](https://github.com/viatsko/awesome-vscode)
       "activityBar.background": "#282c34",
       "editorGroup.background": "#282c34",
       "sideBar.background": "#282c34"
-    }
+    },
+    "window.zoomLevel": 0,
+
+    // Allows to display errors.
+    "scss.showErrors": false,
+
+    // Add vendor prefixes to CSS when you save a file.
+    "autoprefixer.formatOnSave": false,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "prettier.eslintIntegration": true,
+    "emmet.syntaxProfiles": {
+        "javascript": "jsx"
+    },
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.fontAliasing": "antialiased"
 }
 ```
 ## Extensions
