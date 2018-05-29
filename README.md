@@ -99,6 +99,7 @@ For more, checkout [Awesome VS Code](https://github.com/viatsko/awesome-vscode)
 - [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
 - [Rainbow Brackets](https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets)
 - [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
+- [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
 
 ## Tools
 [OpenInCode](https://github.com/sozercan/OpenInCode)
