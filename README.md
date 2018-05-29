@@ -77,6 +77,7 @@ For more, checkout [Awesome VS Code](https://github.com/viatsko/awesome-vscode)
       "editor.formatOnSave": false
     },
     "editor.tabCompletion": true,
+    "typescript.experimental.syntaxFolding": false
 }
 ```
 ## Extensions
