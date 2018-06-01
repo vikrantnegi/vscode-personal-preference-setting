@@ -104,3 +104,6 @@ For more, checkout [Awesome VS Code](https://github.com/viatsko/awesome-vscode)
 
 ## Tools
 [OpenInCode](https://github.com/sozercan/OpenInCode)
+
+## License
+Licensed under the [MIT](https://github.com/vikrantnegi/vscode-personal-preference-setting/blob/master/LICENSE).
