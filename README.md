@@ -1,88 +1,88 @@
 # VS Code Personal Setup
+
 A personal list of [Visual Studio Code](https://code.visualstudio.com/) packages and resources to keep track of my personal setup.
 For more, checkout [Awesome VS Code](https://github.com/viatsko/awesome-vscode)
 
 # Table of Content
+
 - [setting.json](#setting)
 - [Extensions](#extensions)
 - [Tools](#tools)
 
 ## Setting
+
 ```markdown
 {
-    "editor.fontSize": 16,
-    "editor.tabSize": 2,
-    "editor.lineHeight": 25,
-    "editor.letterSpacing": 0.5,
-    "editor.fontWeight": "400",
-    "editor.fontFamily": "Operator Mono, Menlo, Monaco, 'Courier New', monospace",
-    "editor.renderWhitespace": "boundary",
-    "editor.wordWrap": "on",
-    "editor.parameterHints": false,
-    "editor.formatOnPaste": true,
-    "editor.mouseWheelZoom": false,
-    "files.trimTrailingWhitespace": true,
-    "workbench.colorTheme": "One Dark Pro",
-    "files.associations": {
-        "*.scss.liquid": "scss"
-    },
-    "editor.dragAndDrop": true,
-    "editor.cursorBlinking": "solid",
-    "editor.codeLens": false,
-    "editor.multiCursorModifier": "ctrlCmd",
-    "window.nativeTabs": true,
-    //CSS
-    // No unit for zero needed
-    "css.lint.zeroUnits": "warning",
-    "css.lint.idSelector": "warning",
+"editor.fontSize": 16,
+"editor.tabSize": 2,
+"editor.lineHeight": 25,
+"editor.letterSpacing": 0.5,
+"editor.fontWeight": "400",
+"editor.fontFamily": "Operator Mono, Menlo, Monaco, 'Courier New', monospace",
+"editor.renderWhitespace": "boundary",
+"editor.wordWrap": "on",
+"editor.formatOnPaste": true,
+"editor.mouseWheelZoom": false,
+"files.trimTrailingWhitespace": true,
+"workbench.colorTheme": "One Dark Pro",
+"files.associations": {
+"\*.scss.liquid": "scss"
+},
+"editor.dragAndDrop": true,
+"editor.cursorBlinking": "solid",
+"editor.codeLens": false,
+"editor.multiCursorModifier": "ctrlCmd",
+"window.nativeTabs": true,
+//CSS
+// No unit for zero needed
+"css.lint.zeroUnits": "warning",
+"css.lint.idSelector": "warning",
 
-    //SCSS
-    // No unit for zero needed
-    "scss.lint.zeroUnits": "warning",
-    "scss.lint.idSelector": "warning",
+//SCSS
+// No unit for zero needed
+"scss.lint.zeroUnits": "warning",
+"scss.lint.idSelector": "warning",
 
-    //intellisense plugin setting
-    "path-intellisense.extensionOnImport": true,
-    "path-intellisense.showHiddenFiles": true,
-    "path-intellisense.autoSlashAfterDirectory": true,
+//intellisense plugin setting
+"path-intellisense.extensionOnImport": true,
+"path-intellisense.showHiddenFiles": true,
+"path-intellisense.autoSlashAfterDirectory": true,
 
-    "workbench.colorCustomizations":{
-      "tab.activeBackground": "#232833",
-      "activityBar.background": "#282c34",
-      "editorGroup.background": "#282c34",
-      "sideBar.background": "#282c34"
-    },
-    "window.zoomLevel": 0,
+"workbench.colorCustomizations":{
+"tab.activeBackground": "#232833",
+"activityBar.background": "#282c34",
+"editorGroup.background": "#282c34",
+"sideBar.background": "#282c34"
+},
+"window.zoomLevel": 0,
 
-    // Allows to display errors.
-    "scss.showErrors": false,
+// Allows to display errors.
+"scss.showErrors": false,
 
-    // Add vendor prefixes to CSS when you save a file.
-    "autoprefixer.formatOnSave": false,
-    "liveServer.settings.donotShowInfoMsg": true,
-    "prettier.eslintIntegration": true,
-    "emmet.syntaxProfiles": {
-        "javascript": "jsx"
-    },
-    "workbench.startupEditor": "newUntitledFile",
-    "workbench.fontAliasing": "antialiased",
-    "javascript.format.enable": false,
-    "[javascript]": {
-      "editor.formatOnSave": true
-    },
-    "[css]": {
-      "editor.formatOnSave": true
-    },
-    "[scss]": {
-      "editor.formatOnSave": false
-    },
-    "editor.tabCompletion": true,
-    "typescript.experimental.syntaxFolding": false,
-    "window.clickThroughInactive": false,
-    "breadcrumbs.enabled": true,
+// Add vendor prefixes to CSS when you save a file.
+"autoprefixer.formatOnSave": false,
+"liveServer.settings.donotShowInfoMsg": true,
+"prettier.eslintIntegration": true,
+"emmet.syntaxProfiles": {
+"javascript": "jsx"
+},
+"workbench.startupEditor": "newUntitledFile",
+"workbench.fontAliasing": "auto",
+"editor.formatOnSave": true,
+"[javascript]": {
+"editor.formatOnSave": false
+},
+"eslint.autoFixOnSave": true,
+"prettier.disableLanguages": ["js"],
+"editor.tabCompletion": "on",
+"prettier.stylelintIntegration": true,
+"window.clickThroughInactive": false,
+"breadcrumbs.enabled": true,
 }
 ```
+
 ## Extensions
+
 - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 - [Autoprefixer](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-autoprefixer)
 - [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)
@@ -105,7 +105,9 @@ For more, checkout [Awesome VS Code](https://github.com/viatsko/awesome-vscode)
 - [VS Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
 
 ## Tools
+
 [OpenInCode](https://github.com/sozercan/OpenInCode)
 
 ## License
+
 Licensed under the [MIT](https://github.com/vikrantnegi/vscode-personal-preference-setting/blob/master/LICENSE).
