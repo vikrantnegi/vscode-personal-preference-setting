@@ -11,6 +11,8 @@ For more, checkout [Awesome VS Code](https://github.com/viatsko/awesome-vscode)
 
 ## Setting
 
+To add the below setting go to `Code/File` → `Preferences` → `Settings`. It's easier to enter these settings while editing the `settings.json` file, so click the `{}` icon in the top right corner:
+
 ```markdown
 {
 "editor.fontSize": 16,
