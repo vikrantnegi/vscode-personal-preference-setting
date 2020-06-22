@@ -5,9 +5,38 @@ For more, checkout [Awesome VS Code](https://github.com/viatsko/awesome-vscode)
 
 # Table of Content
 
-- [setting.json](#setting)
 - [Extensions](#extensions)
 - [Tools](#tools)
+- [setting.json](#setting)
+
+## Extensions
+
+- [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
+- [Autoprefixer](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-autoprefixer)
+- [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)
+- [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
+- [gitignore](https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore)
+- [Paste and Indent](https://marketplace.visualstudio.com/items?itemName=Rubymaniac.vscode-paste-and-indent)
+- [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
+- [Sort Lines](https://marketplace.visualstudio.com/items?itemName=Tyriar.sort-lines)
+- [SVG Viewer](https://marketplace.visualstudio.com/items?itemName=cssho.vscode-svgviewer)
+- [SCSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-scss)
+- [Placeholder Images](https://marketplace.visualstudio.com/items?itemName=JakeWilson.vscode-placeholder-images)
+- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+- [Prettier - JavaScript formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+- [Reactjs code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.ReactSnippets)
+- [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
+- [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
+- [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
+- [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
+- [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
+- [VS Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
+
+
+## Tools
+
+[OpenInCode](https://github.com/sozercan/OpenInCode)
+
 
 ## Setting
 
@@ -82,33 +111,6 @@ To add the below setting go to `Code/File` → `Preferences` → `Settings`. It'
 "breadcrumbs.enabled": true,
 }
 ```
-
-## Extensions
-
-- [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
-- [Autoprefixer](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-autoprefixer)
-- [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)
-- [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
-- [gitignore](https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore)
-- [Paste and Indent](https://marketplace.visualstudio.com/items?itemName=Rubymaniac.vscode-paste-and-indent)
-- [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
-- [Sort Lines](https://marketplace.visualstudio.com/items?itemName=Tyriar.sort-lines)
-- [SVG Viewer](https://marketplace.visualstudio.com/items?itemName=cssho.vscode-svgviewer)
-- [SCSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-scss)
-- [Placeholder Images](https://marketplace.visualstudio.com/items?itemName=JakeWilson.vscode-placeholder-images)
-- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
-- [Prettier - JavaScript formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-- [Reactjs code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.ReactSnippets)
-- [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
-- [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
-- [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
-- [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
-- [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
-- [VS Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
-
-## Tools
-
-[OpenInCode](https://github.com/sozercan/OpenInCode)
 
 ## License
 
