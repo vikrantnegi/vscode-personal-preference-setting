@@ -17,8 +17,6 @@ For more, checkout [Awesome VS Code](https://github.com/viatsko/awesome-vscode)
 ## Extensions
 
 - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
-- [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
-- [gitignore](https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore)
 - [Paste and Indent](https://marketplace.visualstudio.com/items?itemName=Rubymaniac.vscode-paste-and-indent)
 - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
 - [Sort Lines](https://marketplace.visualstudio.com/items?itemName=Tyriar.sort-lines)
